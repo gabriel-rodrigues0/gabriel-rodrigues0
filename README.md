@@ -50,11 +50,11 @@ Busco criar ferramentas que reduzam retrabalho, economizem tempo, melhorem a exp
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodrigues0&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodrigues0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -64,9 +64,5 @@ Busco criar ferramentas que reduzam retrabalho, economizem tempo, melhorem a exp
 <p align="left">
 <a href="https://www.linkedin.com/in/gabriel-rodrigues-53a124269" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="gp776945@gmail.com">
-<img align="center" src="https://img.shields.io/badge&logo=gmail&logoColor=white" />
 </a>
 </p>
