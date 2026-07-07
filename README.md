@@ -46,16 +46,18 @@ Hoje, meu foco é transformar rotinas manuais em soluções mais eficientes usan
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub em evolução
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-rodrigues0&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
-</p>
+Meu GitHub reúne projetos que desenvolvi e finalizei durante minha formação técnica em **Informática no Ensino Médio**, além de novos estudos e projetos voltados para minha evolução em tecnologia.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodrigues0&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
-</p>
+Atualmente, utilizo este espaço para registrar minha trajetória em:
 
+- Projetos acadêmicos e práticos desenvolvidos no curso de Informática
+- Estudos em Análise e Desenvolvimento de Sistemas
+- Desenvolvimento com HTML, CSS, JavaScript e Python
+- Projetos de automação e produtividade
+- Soluções aplicadas a BI, RH/R&S e análise de dados
+  
 ---
 
 ### 🌐 Contato
