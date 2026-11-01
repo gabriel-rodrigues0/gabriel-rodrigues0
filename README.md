@@ -56,8 +56,8 @@ Aqui registro minha evolução em tecnologia:
 ## 📈 Estatísticas
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-rodrigues0&show_icons=true&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-rodrigues0&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-rodrigues0&theme=github_dark" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-rodrigues0&theme=github_dark" alt="Linguagens por repositório" />
 </p>
 
 ---
