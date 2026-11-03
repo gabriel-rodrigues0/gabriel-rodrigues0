@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-53a124269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF1A2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/gabriel-rodrigues-53a124269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF1A2B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjMGE2NmMyIiBkPSJNMjE4LjEyMyAyMTguMTI3aC0zNy45MzF2LTU5LjQwM2MwLTE0LjE2NS0uMjUzLTMyLjQtMTkuNzI4LTMyLjRjLTE5Ljc1NiAwLTIyLjc3OSAxNS40MzQtMjIuNzc5IDMxLjM2OXY2MC40M2gtMzcuOTNWOTUuOTY3aDM2LjQxM3YxNi42OTRoLjUxYTM5LjkxIDM5LjkxIDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2ek01Ni45NTUgNzkuMjdjLTEyLjE1Ny4wMDItMjIuMDE0LTkuODUyLTIyLjAxNi0yMi4wMDlzOS44NTEtMjIuMDE0IDIyLjAwOC0yMi4wMTZjMTIuMTU3LS4wMDMgMjIuMDE0IDkuODUxIDIyLjAxNiAyMi4wMDhBMjIuMDEzIDIyLjAxMyAwIDAgMSA1Ni45NTUgNzkuMjdtMTguOTY2IDEzOC44NThIMzcuOTVWOTUuOTY3aDM3Ljk3ek0yMzcuMDMzLjAxOEgxOC44OUM4LjU4LS4wOTguMTI1IDguMTYxLS4wMDEgMTguNDcxdjIxOS4wNTNjLjEyMiAxMC4zMTUgOC41NzYgMTguNTgyIDE4Ljg5IDE4LjQ3NGgyMTguMTQ0YzEwLjMzNi4xMjggMTguODIzLTguMTM5IDE4Ljk2Ni0xOC40NzRWMTguNDU0Yy0uMTQ3LTEwLjMzLTguNjM1LTE4LjU4OC0xOC45NjYtMTguNDUzIi8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
 <a href="mailto:gp776945@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1A2B" alt="E-mail" /></a>
 <img src="https://komarev.com/ghpvc/?username=gabriel-rodrigues0&label=visitas&color=ff1a2b&style=for-the-badge" alt="Visitas ao perfil" />
 
@@ -32,7 +32,7 @@ class Gabriel:
     cargo     = "BI e Automação com IA"
     empresa   = "Grupo Pro Security"
     estudando = "Análise e Desenvolvimento de Sistemas"
-    stack     = ["Python", "PowerShell", "JavaScript", "HTML/CSS", "SQLite", "Excel"]
+    stack     = ["Python", "PowerShell", "JavaScript", "React", "Node.js", "MySQL", "Excel"]
     foco      = ["dashboards executivos", "automação de rotinas", "IA aplicada ao RH"]
 
     def resolver(self, processo_manual):
@@ -75,33 +75,60 @@ if __name__ == "__main__":
 
 ## 🛠️ Stack
 
-<div align="center">
-
-<img src="assets/stack-codigo.svg" height="48" alt="Python, PowerShell, JavaScript, HTML, CSS, Node.js, SQLite, Supabase, Git, GitHub, VS Code" />
-
-<br/><br/>
-
-<img src="assets/stack-ferramentas.svg" height="48" alt="Excel, SharePoint, Power Automate, Claude Code, Obsidian, Figma, GSAP" />
-
-</div>
+<img src="assets/stack.svg" width="100%" alt="Python, PowerShell, JavaScript, HTML, CSS, React, Tailwind CSS, Vite, GSAP, Node.js, Express, MySQL, SQLite, Supabase, Excel, Power Automate, SharePoint, Git, GitHub, VS Code, Vercel, Figma, Obsidian, Claude Code, Codex, Gemini, GitHub Copilot" />
 
 ## 📂 Projetos
 
-| Projeto | O que é | Stack |
-|---|---|---|
-| [**Roteiro de Entrevista Automatizado**](https://github.com/gabriel-rodrigues0/ROTEIRO-DE-ENTREVISTA-AUTOMATIZADO) | Roteiro de entrevista de R&S que roda direto no navegador | ![JS](https://img.shields.io/badge/-JavaScript-0D0D0D?style=flat-square&logo=javascript) |
-| [**GEOTEC**](https://github.com/gabriel-rodrigues0/GEOTEC) | Site de geografia feito no 2º ano do técnico (2023) | ![CSS](https://img.shields.io/badge/-HTML%2FCSS-0D0D0D?style=flat-square&logo=css3) |
-| [**To-do App**](https://github.com/gabriel-rodrigues0/todo-app) | Lista de tarefas | ![JS](https://img.shields.io/badge/-JavaScript-0D0D0D?style=flat-square&logo=javascript) |
-| [**Geladinho Vendas**](https://github.com/gabriel-rodrigues0/geladinho-vendas) | Controle de vendas | ![HTML](https://img.shields.io/badge/-HTML-0D0D0D?style=flat-square&logo=html5) |
+### Em destaque
 
-<details>
-<summary><b>🎓 Mais projetos do curso técnico</b></summary>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gabriel-rodrigues0/ROTEIRO-DE-ENTREVISTA-AUTOMATIZADO">Parecer de Entrevista</a></h3>
+      <sub><b>TRABALHO · 2026</b></sub>
+      <p>Roteiro de entrevista em HTML que gera o parecer em PDF automaticamente — Pro Security.</p>
+      <img src="https://img.shields.io/badge/HTML-0D0D0D?style=flat-square&logo=html5&logoColor=FF1A2B" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0D0D0D?style=flat-square&logo=css&logoColor=FF1A2B" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=FF1A2B" alt="JavaScript" /> <img src="https://img.shields.io/badge/jsPDF-0D0D0D?style=flat-square" alt="jsPDF" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gabriel-rodrigues0/geladinho-vendas0">Geladinho da Vovó</a></h3>
+      <sub><b>PROJETO PESSOAL · 2025</b></sub>
+      <p>Página de pedidos com cálculo do total, chave PIX e registro da venda. Tem também a <a href="https://github.com/gabriel-rodrigues0/geladinho-vendas">versão com servidor Node.js</a> que grava as vendas em Excel.</p>
+      <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=FF1A2B" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=nodedotjs&logoColor=FF1A2B" alt="Node.js" /> <img src="https://img.shields.io/badge/Apps_Script-0D0D0D?style=flat-square&logo=googleappsscript&logoColor=FF1A2B" alt="Apps Script" />
+      <a href="https://geladinho-vendas0.vercel.app"><img src="https://img.shields.io/badge/Ver_online-FF1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Ver online" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gabriel-rodrigues0/Carros">Carros</a></h3>
+      <sub><b>ENSINO MÉDIO TÉCNICO · 2024</b></sub>
+      <p>Página responsiva em React que apresenta categorias de carros (sedans, SUVs e luxuosos) em cards.</p>
+      <img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=FF1A2B" alt="React" /> <img src="https://img.shields.io/badge/Vite-0D0D0D?style=flat-square&logo=vite&logoColor=FF1A2B" alt="Vite" /> <img src="https://img.shields.io/badge/Tailwind_CSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=FF1A2B" alt="Tailwind CSS" />
+      <a href="https://carros-ochre.vercel.app"><img src="https://img.shields.io/badge/Ver_online-FF1A2B?style=flat-square&logo=vercel&logoColor=white" alt="Ver online" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gabriel-rodrigues0/GEOTEC">GEOTEC</a></h3>
+      <sub><b>ENSINO MÉDIO TÉCNICO · 2023</b></sub>
+      <p>Site de geografia feito no 2º ano do ensino médio técnico (2023), com conteúdo sobre relevo e topografia e um quiz.</p>
+      <img src="https://img.shields.io/badge/HTML-0D0D0D?style=flat-square&logo=html5&logoColor=FF1A2B" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-0D0D0D?style=flat-square&logo=css&logoColor=FF1A2B" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=FF1A2B" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
 
-<br/>
+### Ensino médio técnico em Informática (2022–2024)
 
-[Calendário da Copa](https://github.com/gabriel-rodrigues0/calendario-copa) · [NFT Card](https://github.com/gabriel-rodrigues0/nft-card) · [Carros](https://github.com/gabriel-rodrigues0/Carros) · [Node + Express](https://github.com/gabriel-rodrigues0/node_express) · [Trabalho de Python](https://github.com/gabriel-rodrigues0/Trabalho-python)
+A maior parte dos meus projetos pessoais nasceu no ensino médio técnico — os primeiros passos com web, Node.js e Python.
 
-</details>
+| Projeto | O que é | Ano | Tecnologias |
+|:--|:--|:-:|:--|
+| [**To Do App**](https://github.com/gabriel-rodrigues0/todo-app) | Lista de tarefas com Node.js, Express, Handlebars e MySQL | 2023 | Node.js · MySQL |
+| [**Feedback**](https://github.com/gabriel-rodrigues0/feedback) | Card de avaliação de atendimento com nota de 1 a 5 | 2024 | React · styled-components |
+| [**Node + Express**](https://github.com/gabriel-rodrigues0/node_express) | Rotas, páginas HTML e formulário de cadastro | 2023 | Node.js · Express |
+| [**Aulas de Node.js**](https://github.com/gabriel-rodrigues0/node.js) | Exercícios do primeiro programa até rotas e formulários com Express | 2023 | Node.js · Express |
+| [**NFT Preview Card**](https://github.com/gabriel-rodrigues0/nft-card) | Desafio do Frontend Mentor | 2023 | HTML · CSS |
+| [**Single Price Grid**](https://github.com/gabriel-rodrigues0/price) | Desafio do Frontend Mentor, responsivo | 2023 | HTML · CSS |
+| [**Calendário da Copa 2022**](https://github.com/gabriel-rodrigues0/calendario-copa-) | Jogos do Brasil e do Grupo G na fase de grupos | 2022 | HTML · CSS |
+| [**Jogo de Adivinhação**](https://github.com/gabriel-rodrigues0/Trabalho-python) | Jogo de terminal com níveis de dificuldade e pontuação | 2023 | Python |
+| [**Adivinha Personagem**](https://github.com/gabriel-rodrigues0/Trabalho2-python) | Descobre em que personagem de Stranger Things 4 você está pensando | 2023 | Python |
 
 ## 📈 No GitHub
 
