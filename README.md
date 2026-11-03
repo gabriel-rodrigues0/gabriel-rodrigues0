@@ -4,9 +4,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/gabriel-rodrigues-53a124269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gp776945@gmail.com"><img src="https://img.shields.io/badge/E--mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="E-mail" /></a>
-<img src="https://komarev.com/ghpvc/?username=gabriel-rodrigues0&label=visitas&color=bf91f3&style=for-the-badge" alt="Visitas ao perfil" />
+<a href="https://www.linkedin.com/in/gabriel-rodrigues-53a124269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF1A2B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gp776945@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF1A2B" alt="E-mail" /></a>
+<img src="https://komarev.com/ghpvc/?username=gabriel-rodrigues0&label=visitas&color=ff1a2b&style=for-the-badge" alt="Visitas ao perfil" />
 
 </div>
 
@@ -77,11 +77,11 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,powershell,js,html,css,nodejs,sqlite,git,github,vscode,figma&perline=11" height="48" alt="Python, PowerShell, JavaScript, HTML, CSS, Node.js, SQLite, Git, GitHub, VS Code, Figma" />
+<img src="assets/stack-codigo.svg" height="48" alt="Python, PowerShell, JavaScript, HTML, CSS, Node.js, SQLite, Supabase, Git, GitHub, VS Code" />
 
 <br/><br/>
 
-<img src="assets/ferramentas.svg" height="48" alt="Excel, Claude Code, SharePoint, Obsidian" />
+<img src="assets/stack-ferramentas.svg" height="48" alt="Excel, SharePoint, Power Automate, Claude Code, Obsidian, Figma, GSAP" />
 
 </div>
 
@@ -89,10 +89,10 @@ if __name__ == "__main__":
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| [**Roteiro de Entrevista Automatizado**](https://github.com/gabriel-rodrigues0/ROTEIRO-DE-ENTREVISTA-AUTOMATIZADO) | Roteiro de entrevista de R&S que roda direto no navegador | ![JS](https://img.shields.io/badge/-JavaScript-1a1b27?style=flat-square&logo=javascript) |
-| [**GEOTEC**](https://github.com/gabriel-rodrigues0/GEOTEC) | Site de geografia feito no 2º ano do técnico (2023) | ![CSS](https://img.shields.io/badge/-HTML%2FCSS-1a1b27?style=flat-square&logo=css3) |
-| [**To-do App**](https://github.com/gabriel-rodrigues0/todo-app) | Lista de tarefas | ![JS](https://img.shields.io/badge/-JavaScript-1a1b27?style=flat-square&logo=javascript) |
-| [**Geladinho Vendas**](https://github.com/gabriel-rodrigues0/geladinho-vendas) | Controle de vendas | ![HTML](https://img.shields.io/badge/-HTML-1a1b27?style=flat-square&logo=html5) |
+| [**Roteiro de Entrevista Automatizado**](https://github.com/gabriel-rodrigues0/ROTEIRO-DE-ENTREVISTA-AUTOMATIZADO) | Roteiro de entrevista de R&S que roda direto no navegador | ![JS](https://img.shields.io/badge/-JavaScript-0D0D0D?style=flat-square&logo=javascript) |
+| [**GEOTEC**](https://github.com/gabriel-rodrigues0/GEOTEC) | Site de geografia feito no 2º ano do técnico (2023) | ![CSS](https://img.shields.io/badge/-HTML%2FCSS-0D0D0D?style=flat-square&logo=css3) |
+| [**To-do App**](https://github.com/gabriel-rodrigues0/todo-app) | Lista de tarefas | ![JS](https://img.shields.io/badge/-JavaScript-0D0D0D?style=flat-square&logo=javascript) |
+| [**Geladinho Vendas**](https://github.com/gabriel-rodrigues0/geladinho-vendas) | Controle de vendas | ![HTML](https://img.shields.io/badge/-HTML-0D0D0D?style=flat-square&logo=html5) |
 
 <details>
 <summary><b>🎓 Mais projetos do curso técnico</b></summary>
@@ -107,8 +107,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-rodrigues0&theme=tokyonight" alt="Estatísticas" />
-<img height="170" src="https://streak-stats.demolab.com/?user=gabriel-rodrigues0&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img height="170" src="https://streak-stats.demolab.com/?user=gabriel-rodrigues0&locale=pt_BR&hide_border=true&background=0D0D0D&ring=FF1A2B&fire=FF1A2B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1A2B&sideLabels=A1A1A1&dates=A1A1A1&stroke=2A2A2A" alt="Sequência de contribuições" />
 
 <br/><br/>
 
