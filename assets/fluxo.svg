@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-labelledby="t d">
+  <title id="t">Como eu trabalho</title>
+  <desc id="d">Planilha manual, depois script em Python ou PowerShell, depois dashboard, e por fim a decisão da liderança.</desc>
+  <defs>
+    <linearGradient id="acento" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70a5fd"/>
+      <stop offset=".5" stop-color="#bf91f3"/>
+      <stop offset="1" stop-color="#38bdae"/>
+    </linearGradient>
+    <radialGradient id="brilho">
+      <stop offset="0" stop-color="#bf91f3" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#bf91f3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+    .mono { font-family: 'Cascadia Code', Consolas, 'Fira Code', Menlo, monospace; }
+    .no { fill: #1a1b27; stroke: #ffffff; stroke-opacity: .09; }
+    .titulo { font-size: 15px; font-weight: 600; fill: #e6edf3; }
+    .sub { font-size: 12px; fill: #9aa5ce; }
+    .trilho { stroke: #ffffff; stroke-opacity: .10; stroke-width: 2; }
+    .fluxo { stroke: url(#acento); stroke-width: 2; stroke-dasharray: 6 8; animation: corre 1.2s linear infinite; }
+    @keyframes corre { to { stroke-dashoffset: -14; } }
+
+    /* cada etapa acende quando o pacote de dados chega: ciclo de 8s */
+    .aceso { opacity: 0; animation: acende 8s ease-in-out infinite; }
+    .a2 { animation-delay: 2s; } .a3 { animation-delay: 4s; } .a4 { animation-delay: 6s; }
+    @keyframes acende { 0%, 100% { opacity: 0; } 6%, 22% { opacity: 1; } 32% { opacity: 0; } }
+
+    @media (prefers-reduced-motion: reduce) {
+      .fluxo, .aceso { animation: none; }
+      .aceso { opacity: .5; }
+      .pacote { display: none; }
+    }
+  </style>
+
+  <!-- fundo próprio: fica legível no tema claro e no escuro do GitHub -->
+  <rect x=".5" y=".5" width="899" height="229" rx="18" fill="#12131c" stroke="#ffffff" stroke-opacity=".08"/>
+
+  <!-- trilho e fluxo -->
+  <path class="trilho" d="M120 96 H780" fill="none"/>
+  <path class="fluxo" d="M120 96 H780" fill="none"/>
+
+  <!-- pacote de dados: passa por baixo das etapas, aparece só entre elas -->
+  <g class="pacote">
+    <circle r="14" fill="url(#brilho)">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M120 96 H780" keyPoints="0;0;.3333;.3333;.6667;.6667;1;1" keyTimes="0;.12;.25;.37;.5;.62;.75;1" calcMode="linear"/>
+    </circle>
+    <circle r="4.5" fill="#ffffff">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M120 96 H780" keyPoints="0;0;.3333;.3333;.6667;.6667;1;1" keyTimes="0;.12;.25;.37;.5;.62;.75;1" calcMode="linear"/>
+    </circle>
+  </g>
+
+  <!-- etapa 1: planilha -->
+  <g transform="translate(30 40)">
+    <rect class="aceso" x="-4" y="-4" width="188" height="120" rx="16" fill="none" stroke="#70a5fd" stroke-width="2"/>
+    <rect class="no" width="180" height="112" rx="14"/>
+    <g transform="translate(72 18)" stroke="#70a5fd" stroke-width="1.6" fill="none">
+      <rect width="36" height="30" rx="3"/>
+      <path d="M0 10 H36 M0 20 H36 M12 0 V30 M24 0 V30" stroke-opacity=".7"/>
+    </g>
+    <text class="titulo" x="90" y="72" text-anchor="middle">Planilha manual</text>
+    <text class="sub" x="90" y="92" text-anchor="middle">dados espalhados</text>
+  </g>
+
+  <!-- etapa 2: script -->
+  <g transform="translate(250 40)">
+    <rect class="aceso a2" x="-4" y="-4" width="188" height="120" rx="16" fill="none" stroke="#bf91f3" stroke-width="2"/>
+    <rect class="no" width="180" height="112" rx="14"/>
+    <text class="mono" x="90" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#bf91f3">{ }</text>
+    <text class="titulo" x="90" y="72" text-anchor="middle">Python · PowerShell</text>
+    <text class="sub" x="90" y="92" text-anchor="middle">limpa, valida, consolida</text>
+  </g>
+
+  <!-- etapa 3: dashboard -->
+  <g transform="translate(470 40)">
+    <rect class="aceso a3" x="-4" y="-4" width="188" height="120" rx="16" fill="none" stroke="#70a5fd" stroke-width="2"/>
+    <rect class="no" width="180" height="112" rx="14"/>
+    <g transform="translate(72 18)" fill="#70a5fd">
+      <rect x="0" y="16" width="7" height="14" rx="1.5" fill-opacity=".55"/>
+      <rect x="10" y="8" width="7" height="22" rx="1.5" fill-opacity=".75"/>
+      <rect x="20" y="12" width="7" height="18" rx="1.5" fill-opacity=".65"/>
+      <rect x="30" y="2" width="7" height="28" rx="1.5"/>
+    </g>
+    <text class="titulo" x="90" y="72" text-anchor="middle">Dashboard</text>
+    <text class="sub" x="90" y="92" text-anchor="middle">KPI, tendência, recorte</text>
+  </g>
+
+  <!-- etapa 4: decisão -->
+  <g transform="translate(690 40)">
+    <rect class="aceso a4" x="-4" y="-4" width="188" height="120" rx="16" fill="none" stroke="#38bdae" stroke-width="2"/>
+    <rect class="no" width="180" height="112" rx="14"/>
+    <g transform="translate(74 16)" fill="none" stroke="#38bdae" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="16" cy="16" r="15"/>
+      <path d="M9 16.5 L14 21.5 L23 11"/>
+    </g>
+    <text class="titulo" x="90" y="72" text-anchor="middle">Decisão</text>
+    <text class="sub" x="90" y="92" text-anchor="middle">liderança age no dado</text>
+  </g>
+
+  <text class="mono" x="450" y="196" text-anchor="middle" font-size="13" fill="#9aa5ce">entender o processo  →  medir  →  automatizar  →  entregar pronto para usar</text>
+</svg>
