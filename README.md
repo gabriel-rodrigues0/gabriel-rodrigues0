@@ -77,14 +77,11 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,powershell,js,html,css,nodejs,sqlite,git,github,vscode,figma&perline=11" alt="Python, PowerShell, JavaScript, HTML, CSS, Node.js, SQLite, Git, GitHub, VS Code, Figma" />
+<img src="https://skillicons.dev/icons?i=python,powershell,js,html,css,nodejs,sqlite,git,github,vscode,figma&perline=11" height="48" alt="Python, PowerShell, JavaScript, HTML, CSS, Node.js, SQLite, Git, GitHub, VS Code, Figma" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
-<img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+<img src="assets/ferramentas.svg" height="48" alt="Excel, Claude Code, SharePoint, Obsidian" />
 
 </div>
 
